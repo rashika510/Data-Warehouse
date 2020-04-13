@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Northwind-ETL", "Northwind-ETL\Northwind-ETL.dtproj", "{1CED292F-C4C4-4400-B437-728B543B1626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CED292F-C4C4-4400-B437-728B543B1626}.Development|Default.ActiveCfg = Development
+		{1CED292F-C4C4-4400-B437-728B543B1626}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645FF324-B9EB-4FB1-BA5E-F58EB0C6E864}
+	EndGlobalSection
+EndGlobal
