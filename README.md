@@ -1,2 +1,2 @@
 # Data-Warehouse
-IST 722 Data Warehouse at Syracuse University
+Datawarehouse and Business Intelligence reporting for Fudgemart-Fudgeflix
